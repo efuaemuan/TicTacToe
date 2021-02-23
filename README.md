@@ -9,3 +9,10 @@ by assigning a value to the game after analyzing all possible outcomes.
 Although it is impossible to win against the program, it is possible to never lose against it. 
 
 If the program was to play against itself, every game would end in a draw. 
+
+### Technologies Used
+• Javascript
+
+•HTML
+
+•CSS
