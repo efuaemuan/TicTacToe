@@ -2,13 +2,11 @@
 #### [https://efuaemuan.github.io/TicTacToe]
 
 ## Description
-The game of tic-tac-toe is a game that can be perfected. Meaning a player can only win, when their opponet makes a mistake.
+The game of tic-tac-toe is a game that can be perfected; this means a game can only be won if a player makes a mistake.
 
-In this case, the player will be going against a computer program. Because the program doesn't make mistakes, it is impossible to beat it. In theory, the program makes a move 
-by assigning a value to the game after analyzing all possible outcomes.
-Although it is impossible to win against the program, it is possible to never lose against it. 
+In this case, the player would be playing against a computer program. The computer would win if the player makes a mistake. If the player does not make a mistake, the game would end in a draw. It is impossible to win against the computer because the computer would not make any mistakes.
 
-If the program was to play against itself, every game would end in a draw. 
+Essentially, If the computer was to play against itself, every game would end in a draw. 
 
 ### Technologies Used
 • Javascript
